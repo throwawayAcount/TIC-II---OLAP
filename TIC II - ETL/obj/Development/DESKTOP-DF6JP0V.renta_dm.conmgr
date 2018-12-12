@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-DF6JP0V.renta_dm"
+  DTS:DTSID="{104C9878-E1C9-4114-8AB2-6DE936EC3254}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-DF6JP0V\PRUEBA;Initial Catalog=renta_dm;Integrated Security=True;Application Name=&quot;SSIS-TIC II - ETL-{104C9878-E1C9-4114-8AB2-6DE936EC3254}DESKTOP-DF6JP0V.renta_dm&quot;;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

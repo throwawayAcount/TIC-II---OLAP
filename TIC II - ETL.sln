@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TIC II - ETL", "TIC II - ETL\TIC II - ETL.dtproj", "{E06D16D7-C4BE-4D75-A737-543CD808FEC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E06D16D7-C4BE-4D75-A737-543CD808FEC2}.Development|Default.ActiveCfg = Development
+		{E06D16D7-C4BE-4D75-A737-543CD808FEC2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {414F3771-045A-4899-9278-3D93E79E665F}
+	EndGlobalSection
+EndGlobal
